@@ -1,0 +1,16 @@
+{
+  "name": "rage-panel",
+  "version": "1.0.0",
+  "description": "Painel de controle do RageInjector - Feito com ❤️ por ENI para LO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1"
+  }
+}
